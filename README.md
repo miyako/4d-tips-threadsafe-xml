@@ -16,3 +16,5 @@ $workerName:="Worker"+String($i%$nbWorker)+($preemptif ? "🚀" : "🚙")
 ```
 
 <img src="https://github.com/user-attachments/assets/e19260db-972e-4cb8-a9e0-81982491c48e" width=600 height=auto />)
+
+<img src="https://github.com/user-attachments/assets/3b88861c-e4cb-4d9e-b8c6-bfe7c9fda2a4" width=600 height=auto />)
