@@ -9,6 +9,7 @@ replica of 4D v16 demo database
 * move processing to component
 * increased test thresholds 
 * different worker names based on process type
+* codesign+notarytool (please download from releases)
 
 ```4d
 $workerName:="Worker"+String($i%$nbWorker)+($preemptif ? "🚀" : "🚙")
