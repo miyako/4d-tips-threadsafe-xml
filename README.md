@@ -6,10 +6,12 @@ replica of 4D v16 demo database
 
 ## modifications
 
-move processing to component.
-
-different worker names based on process type
+* move processing to component
+* increased test thresholds 
+* different worker names based on process type
 
 ```4d
 $workerName:="Worker"+String($i%$nbWorker)+($preemptif ? "🚀" : "🚙")
 ```
+
+<img src="https://github.com/user-attachments/assets/e19260db-972e-4cb8-a9e0-81982491c48e" width=500 height=auto />)
