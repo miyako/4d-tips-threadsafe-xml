@@ -12,6 +12,7 @@ original blog post: https://blog.4d.com/xml-commands-are-now-thread-safe/
 * increased test thresholds 
 * different worker names based on process type
 * codesign+notarytool (please download from releases)
+* [english](https://github.com/miyako/4d-tips-threadsafe-xml/tree/english) branch for delocalised version
 
 ```4d
 $workerName:="Worker"+String($i%$nbWorker)+($preemptif ? "🚀" : "🚙")
