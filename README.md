@@ -6,7 +6,7 @@ replica of 4D v16 demo database
 
 ## modifications
 
-* moved processing to component
+* moved processing to component to work interpreted
 * increased test thresholds 
 * different worker names based on process type
 * codesign+notarytool (please download from releases)
