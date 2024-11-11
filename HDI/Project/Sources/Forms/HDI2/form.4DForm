@@ -25,7 +25,7 @@
 	],
 	"method": "method.4dm",
 	"pageFormat": {
-		"paperName": "レター",
+		"paperName": "Letter",
 		"paperWidth": "612pt",
 		"paperHeight": "792pt"
 	},
@@ -112,7 +112,7 @@
 					"left": 82,
 					"width": 227,
 					"height": 22,
-					"text": ":xliff:Compare in cooperative",
+					"text": "Compare in cooperative",
 					"focusable": false,
 					"method": "ObjectMethods/Button2.4dm",
 					"events": [
@@ -125,7 +125,7 @@
 					"left": 423,
 					"width": 217,
 					"height": 22,
-					"text": ":xliff:Compare in preemptive",
+					"text": "Compare in preemptive",
 					"focusable": false,
 					"method": "ObjectMethods/Button3.4dm",
 					"events": [
@@ -179,7 +179,7 @@
 					"left": 437,
 					"width": 230,
 					"height": 17,
-					"text": ":xliff:Number of workers"
+					"text": "Number of workers"
 				},
 				"Ruler2": {
 					"type": "ruler",
@@ -207,7 +207,7 @@
 					"left": 102,
 					"width": 230,
 					"height": 17,
-					"text": ":xliff:Number of XML files to compare"
+					"text": "Number of XML files to compare"
 				},
 				"Ruler1": {
 					"type": "ruler",
