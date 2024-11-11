@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+  <file datatype="x-STR#" original="undefined" product-version="v16" source-language="en-US" target-language="ja">
+    <header>
+      <note/>
+    </header>
+    <body>
+      <group resname="HDI">
+        <!-- common stuff -->
+        <trans-unit resname="Quit 4D">
+          <source>Quit 4D</source>
+          <target>終了する</target>
+        </trans-unit>
+        <trans-unit resname="Demo">
+          <source>Demo</source>
+          <target>スタート</target>
+        </trans-unit>
+        <trans-unit resname="(4D v16 and above...)">
+          <source>(4D v16 and above...)</source>
+          <target>(4D v16 以降...)</target>
+        </trans-unit>
+        <trans-unit resname="How Do I...">
+          <source>How Do I...</source>
+          <target>教えて...</target>
+        </trans-unit>
+        <trans-unit resname="Demo...">
+          <source>Demo...</source>
+          <target>デモンストレーション...</target>
+        </trans-unit>
+        <trans-unit resname="The plugin xxx is mandatory">
+          <source>The plugin xxx is mandatory</source>
+          <target>プラグインxxxが必要です。</target>
+        </trans-unit>
+        <trans-unit resname="Do not attempt to open this HDI in Design mode using this version; if you do so, forms and/or methods could be altered because of missing functionality.">
+          <source>Do not attempt to open this HDI in Design mode using this version; if you do so, forms and/or methods could be altered because of missing functionality.</source>
+          <target>このHDIをデザインモードで開いてはなりません。開いてしまった場合，フォームやメソッドが不完全になってしまう恐れがあります。</target>
+        </trans-unit>
+        <trans-unit resname="Sorry">
+          <source>Sorry, this &quot;How do I...&quot; (HDI) &#x0D;example must be used with&#x0D;a newer version of 4D&#x0D;(v16 and above).</source>
+          <target>申し訳ありません。この&quot;How do I...&quot; (HDI) &#x0D;サンプルは，より新しいバージョンの4D（v16以降）で開かなければなりません。</target>
+        </trans-unit>
+        <!-- specific stuff -->
+        <trans-unit resname="... use XML Command with preemptives processes?">
+          <source>... use XML Command with preemptives processes?</source>
+          <target>... プリエンプティブプロセスでXMLコマンドを実行するには?</target>
+        </trans-unit>
+        <trans-unit resname="Sorry64">
+          <source>Sorry preemptive processes are available only in the 64-bits versions.</source>
+          <target>申し訳ありません。プリエンプティブプロセスを使用するには64ビット版で開かなければなりません。</target>
+        </trans-unit>
+        <trans-unit resname="Number of XML files to compare">
+          <source>Number of XML files to process</source>
+          <target>処理するXMLファイルの数</target>
+        </trans-unit>
+        <trans-unit resname="Number of workers">
+          <source>Number of workers</source>
+          <target>ワーカーの数</target>
+        </trans-unit>
+        <trans-unit resname="Compare in cooperative">
+          <source>Process in cooperative</source>
+          <target>コオペラティブモードで処理</target>
+        </trans-unit>
+        <trans-unit resname="Compare in preemptive">
+          <source>Process in preemptive</source>
+          <target>プリエンプティブモードで処理</target>
+        </trans-unit>
+        <trans-unit resname="Number of loop">
+          <source>Number of loop</source>
+          <target>繰り返しの数</target>
+        </trans-unit>
+        <trans-unit resname="Preemptive processes are">
+          <source>Preemptive processes are running only in Compiled mode with 64-bit versions.&#x0D;Please, restart your database in Compiled mode with a 64-bit version.</source>
+          <target>プリエンプティブプロセスを開始するためには，64ビット版のコンパイルモードで実行する必要があります。例題を64ビット版のコンパイルモードで開き直してください。</target>
+        </trans-unit>
+        <trans-unit resname="Time elapsed for the comparison ">
+          <source>Time elapsed for processing </source>
+          <target>処理に要した時間：</target>
+        </trans-unit>
+        <trans-unit resname=" seconds.">
+          <source> seconds. </source>
+          <target>秒</target>
+        </trans-unit>
+        <trans-unit resname="Worker">
+          <source>Worker</source>
+          <target>ワーカー</target>
+        </trans-unit>
+        <trans-unit resname="completed the Task">
+          <source>completed the Task</source>
+          <target>がタスク</target>
+        </trans-unit>
+        <trans-unit resname="   ">
+          <target> を完了しました。</target>
+        </trans-unit>
+
+      </group>
+    </body>
+  </file>
+</xliff>
