@@ -4,6 +4,8 @@
 # 4d-tips-threadsafe-xml
 replica of 4D v16 demo database
 
+original blog post: https://blog.4d.com/xml-commands-are-now-thread-safe/
+
 ## modifications
 
 * support interpreted mode (processing code is moved to compiled component)
