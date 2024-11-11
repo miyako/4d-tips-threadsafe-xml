@@ -3,3 +3,13 @@
 
 # 4d-tips-threadsafe-xml
 replica of 4D v16 demo database
+
+## modifications
+
+move processing to component.
+
+different worker names based on process type
+
+```4d
+$workerName:="Worker"+String($i%$nbWorker)+($preemptif ? "🚀" : "🚙")
+```
